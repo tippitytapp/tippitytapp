@@ -9,5 +9,4 @@
 - 🌱 I’m always loooking and learning to expand my knowledge. 
 - 👯 I’m looking to collaborate on any opportunity to expand my knowledge of Python, JavaScript, NodeJs, Express, Postgres, ReactJs, GraphQL, and Apollo.
 - 📫 How to reach me: [twitter](https://www.twitter.com/tappmarcalan) - [linkedin](https://www.linkedin.com/in/marctapp) - [email](mailto:marc.tapp@gmail.com) 
-- 😄 Pronouns: Cis gender male, he/him/his
 - ⚡ Fun fact: Did you know... that whales can communicate at a distance of up to 100 miles!!
